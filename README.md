@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renardus
+- 👋 Hi, I’m Mike Renardus
 - 👀 I’m interested in Ruby, CMDB
 - 🌱 I’m currently looking at openHAB
 - 💞️ I’m just orienting. I have this year not enough time but hope next year to start a new project
